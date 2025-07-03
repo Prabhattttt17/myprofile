@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen01s&label=Profile%20views&color=0e75b6&style=flat" alt="naveen01s" /> </p>
 
-<p align="left"> <a href="https://twitter.com/naveen9994299" target="blank"><img src="https://img.shields.io/twitter/follow/naveen9994299?logo=twitter&style=for-the-badge" alt="naveen9994299" /></a> </p>
 
 
 - 👯Think of me as your friendly guide into the realm of ones and zeros.
@@ -14,12 +13,12 @@
 
 - ⚡ Fun fact: **Constantly evolving,just like code🔄**
 
-- 📫 How to reach me **kesharwaniprabhat512@gmail.c**
+- 📫 How to reach me **kesharwaniprabhat512@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/naveen9994299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naveen9994299" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/naveen sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen sharma" height="30" width="40" /></a>
+<a href="http://linkedin.com/in/prabhat-kesharwani-21a36330a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/naveenn.x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naveenn.x01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/naveensharma01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naveensharma01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/naveen955h6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="naveen955h6" height="30" width="40" /></a>
